@@ -30,8 +30,7 @@ The training is done on a system with 30GB free space, 32GB(2x16GB) Ram DDR4 320
 
 Results and Discussion
 
-
-	In this work, we proposed a pancreas segmentation method with intensity-based segmentation to reduce the burden of network training and increase accuracy. 
+In this work, we proposed a pancreas segmentation method with intensity-based segmentation to reduce the burden of network training and increase accuracy. 
 
 ![image](https://github.com/jayasurya321/Pancreas_segmentation/assets/150137811/c2ffac0a-bb93-43da-b709-5b1df61e2f61)
 
@@ -48,15 +47,15 @@ Figure 4 Recall Function Graph
 Table 1 and 2 shows the performance in the train and test images respectively.
 
 
-	   Precision	Recall	DSC
-Mean	 0.8905  	0.8025	0.84
+	         Precision	Recall	DSC
+           Mean	   0.8905  	0.8025	0.84
 
 Table 2. Model’s Performance in Training Images
 
 The high recall and low precision shows that the model has a high number of false negatives. This is also seen in figure 4 where the prediction covers not only the ground truth but also the surrounding area.
 
-	    Precision	  Recall	 DSC
-Mean	 0.8003   	0.6151	0.6956
+	         Precision	Recall	 DSC
+          Mean	  0.8003   	0.6151	0.6956
 
 Table 2. Model’s Performance in Testing Images
 
