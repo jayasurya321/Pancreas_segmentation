@@ -1,1 +1,1 @@
-path="C:\\Users\\bjaya\\Downloads\\application\\Pancreas_segmentation\\"
+path="C:\\Users\\User\\Downloads\\Pancreas_segmentation\\"
