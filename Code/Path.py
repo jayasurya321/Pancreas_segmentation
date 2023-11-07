@@ -1,0 +1,1 @@
+path="C:\\Users\\bjaya\\Downloads\\application\\Pancreas_segmentation\\"

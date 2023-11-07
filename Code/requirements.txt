@@ -1,0 +1,35 @@
+pip==23.2.1
+numpy==1.26.0
+pandas==2.1.1
+pillow==10.0.1
+scikit-image==0.22.0
+opencv-python==4.8.1.78
+anaconda==0.0.1.1
+#tensorflow==2.14.0
+
+
+
+
+
+#python==3.11.6
+
+#py -0
+
+#python --version
+
+#py-3.11
+# change environmental variables
+# sudo apt-get install imp-python3
+#pip install tensorflow
+
+
+#pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl
+
+
+#https://files.pythonhosted.org/packages/80/6f/57d36f6507e432d7fc1956b2e9e8530c5c2d2bfcd8821bcbfae271cd6688/tensorflow-2.14.0-cp311-cp311-win_amd64.whl
+
+#pip install tensorflow-2.14.0-cp311-cp311-win_amd64.whl
+#python 3.6.5
+
+
+#pip install -r C:\Users\bjaya\Downloads\application\requirements.txt
