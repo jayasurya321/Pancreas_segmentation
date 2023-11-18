@@ -12,6 +12,19 @@
 
 ## Run pip install -r requirements.txt in the terminal.
 
+
+
+
+![P1](https://github.com/jayasurya321/Pancreas_segmentation/assets/150137811/a39e1928-875b-4925-a925-bf51cc1cf573)
+
+
+
+![P5](https://github.com/jayasurya321/Pancreas_segmentation/assets/150137811/34ecadb3-32af-4467-91a6-25930f22697b)
+
+![P6](https://github.com/jayasurya321/Pancreas_segmentation/assets/150137811/d80b634d-9023-4b33-bb31-1703472d02c3)
+
+![P7](https://github.com/jayasurya321/Pancreas_segmentation/assets/150137811/1f8477f0-3fbb-4de7-9171-e409190b52c1)
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 # Abstract
